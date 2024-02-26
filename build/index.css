@@ -1,0 +1,33 @@
+/*!****************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/editor.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************/
+.wp-block-vndrvn-wp-figma .image-select {
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-flow: row wrap;
+  gap: 0px;
+  max-height: 30em;
+  overflow: auto;
+}
+.wp-block-vndrvn-wp-figma .image-select * {
+  width: 50%;
+  position: relative;
+  cursor: pointer;
+}
+.wp-block-vndrvn-wp-figma .image-select * img {
+  width: 100%;
+}
+.wp-block-vndrvn-wp-figma .image-select * div {
+  position: relative;
+  bottom: 0px;
+  width: calc(100% - 1em);
+  font-weight: bold;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.67);
+  padding: 0.25em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  margin-top: -2em;
+}
+
+/*# sourceMappingURL=index.css.map*/
